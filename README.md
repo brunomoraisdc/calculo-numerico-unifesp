@@ -8,6 +8,7 @@ Repositório com as atividades práticas da disciplina de Cálculo Numérico, de
 
 ## Estrutura do repositório
 
+```
 calculo-numerico/
 │
 ├── README.md
@@ -21,6 +22,7 @@ calculo-numerico/
 ├── atividade-03/
 │   ...
 └── atividade-12/
+```
 
 ---
 
